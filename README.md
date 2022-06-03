@@ -1,5 +1,6 @@
 
-<h2> Hey there! I'm Natthapon ☕</h2>
+<h2> Hey there! I'm Natthapon ☕ </h2>
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
  👋 Hello if you see this message Indicates that you are reading my information. but still can't figure it out will continue to write tomorrow But in conclusion, I am studying at King Mongkut's University of Technology Thonburi. Faculty of Computer Engineering I have a passion for programming. It's challenging and sometimes a headache. But if you succeed, you'll be impressed.🌈
@@ -30,8 +31,10 @@
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
     ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
+
+<h2></h2>
 <br/>
-<a href="https://github.com/Porping">
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api?username=Porping&theme=dracula&show_icons=true" />
-  <img height="120em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porping&theme=dracula&layout=compact" />
+<a  href="https://github.com/Porping">
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api?username=Porping&theme=dracula&show_icons=true" />
+  <img height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Porping&theme=dracula&layout=compact" />
 </a>
