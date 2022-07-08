@@ -3,7 +3,7 @@
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
- 👋 Hello if you see this message Indicates that you are reading my information. but still can't figure it out will continue to write tomorrow But in conclusion, I am studying at King Mongkut's University of Technology Thonburi. Faculty of Computer Engineering I have a passion for programming. It's challenging and sometimes a headache. But if you succeed, you'll be impressed.🌈
+ 👋Hello, I am studying at King Mongkut's University of Technology Thonburi. Faculty of Computer Engineering I have a passion for programming. It's challenging and sometimes a headache. But if you succeed, you'll be impressed.🌈
 
 ### 🛠 Tech Stack
 - 🖥Front-End 
